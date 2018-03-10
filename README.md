@@ -5,6 +5,7 @@ Build a simple TODO application
 ## Technology to be used
 
 You can use React, Redux, Redux saga, Material UI
+
 Note - You are not allowed to use other frameworks or libraries
 
 ## UI Looks and feel requirement
