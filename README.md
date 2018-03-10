@@ -8,7 +8,7 @@ You can use [React](https://reactjs.org/), [Redux](https://redux.js.org), [Redux
 
 Note - You are not allowed to use other frameworks or libraries
 
-## UI Looks and feel requirement
+## UI Look and feel requirement
 
 <img width="278" alt="screen shot 2018-03-09 at 8 34 47 pm" src="https://user-images.githubusercontent.com/446864/37237994-d3b96f58-23d9-11e8-8eff-8e375488d16b.png">
 
@@ -16,7 +16,7 @@ Note - You are not allowed to use other frameworks or libraries
 ## Video demonstration of the application
 ![todo-app](https://user-images.githubusercontent.com/446864/37237991-c519b566-23d9-11e8-8ec0-3ac9c05c1e5e.gif)
 
-## Behavior explanation
+## Behavior
 
 - A simple text box to enter todo text
 - Checkbox selection to select/deselect TODO item
