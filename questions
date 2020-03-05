@@ -1,0 +1,25 @@
+- Have you heard about micro front end architecture and how do you do that?
+	- How do you share authentication?
+
+
+- When you deploy any front end application, what type of infrastructure do you use?
+	- Pros and cons of different types of depoyment infrastructure
+
+
+- Design an AutoComplete component
+	- Go over the implementation
+	- How can we make it offline first
+		- Go over design implementation
+	- Conflict resolution of AJAX calls
+
+
+- If time permits
+
+var list = readHugeLIst();
+var nextListItem = function() {
+	var item = list.pop();
+	if (item) {
+		nextListItem()
+	}
+}
+This causes stackover flow. Can you think of how we could avoid it? Its just one line change.
